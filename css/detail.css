@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+}
+	
+.grid_8{
+	width: 500px;
+	margin: 0px auto;
+	text-align: left;
+	padding-bottom: 20px;
+	border: 1px dashed #333;
+	background-color: #eee;
+}
+
+label{
+	font-weight: bold;
+	font-size: 17px;
+	margin-right: 10px;
+	margin-left: -25px;
+}
+
+#content{
+	margin-left: 150px;
+}
+
+.btn{
+	margin-top: 5px;
+}
